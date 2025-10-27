@@ -1,0 +1,3 @@
+CREATE DATABASE restaurant_health_inspection;
+USE restaurant_health_inspection;
+
