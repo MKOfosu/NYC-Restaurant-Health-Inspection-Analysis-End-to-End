@@ -4,14 +4,21 @@
 
 ## 📌 Project Overview
 
-NYC restaurant health inspections are designed to protect public health by ensuring food safety, sanitation, and regulatory compliance across all food service establishments. Inspectors check for compliance with New York City Health Code and New York State Sanitary Code, which set standards for cleanliness, food storage, pest control, and employee hygiene. The dataset includes restaurant details, location, cuisine descriptions, inspection results, grades, and violation types. 
+NYC restaurant health inspections are designed to protect public health by ensuring food safety, sanitation, and regulatory compliance across all food service establishments. Inspectors check for compliance with New York City Health Code and New York State Sanitary Code, which set standards for cleanliness, food storage, pest control, and employee hygiene. The dataset includes restaurant details, location, cuisine descriptions, inspection results, grades, and violation types.
+
+### 🙏 Credit
+
+- **[Analyst Builder](https://www.analystbuilder.com/projects/restaurant-health-inspection-analysis-nyc-FhAOm)** for the datasets and the directions for the analysis.
+
+- **[NYC Environmental Health Services team at DOHMH](https://github.com/nycehs/NYC_geography)** for the topo-json of NYC.
+
 
 ## 🎯 Objectives
 
 - To identify common health violations
 - To analyze trends by cuisine and geography
 - To find variations in grades and violations across boroughs and over time.
-- To provide actionable recommendations
+- To provide actionable recommendations.
 
 ## 🛠️ Tools Used
 
